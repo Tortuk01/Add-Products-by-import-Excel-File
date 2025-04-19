@@ -1,0 +1,58 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "Item Name": "oil",
+      "type": "Invenory",
+      "department": "Cosmatic",
+      "Item Description": "This is imported Oil",
+      "size": "Medium"
+    },
+    {
+      "id": 1,
+      "Item Name": "Comb",
+      "Type": "Invenory",
+      "Department": "Cosmatic",
+      "Item Description": "This is designed comb",
+      "Size": "Small"
+    },
+    {
+      "0": {
+        "id": 1,
+        "Item Name": "Mobile",
+        "Type": "",
+        "Department": "Electronic",
+        "Item Description": "This is desc",
+        "Size": "Small"
+      },
+      "1": {
+        "id": 2,
+        "Item Name": "yarn",
+        "Type": "",
+        "Department": "Textile",
+        "Item Description": "This is desc",
+        "Size": "Small"
+      },
+      "2": {
+        "id": 3,
+        "Item Name": "Door",
+        "Type": "",
+        "Department": "Desin",
+        "Item Description": "This is desc",
+        "Size": "Large"
+      },
+      "id": "3e46"
+    },
+    {
+      "0": {
+        "id": 4,
+        "Item Name": "earc",
+        "Type": "",
+        "Department": "NooTech",
+        "Item Description": "",
+        "Size": ""
+      },
+      "id": "3c3d"
+    }
+  ]
+}
