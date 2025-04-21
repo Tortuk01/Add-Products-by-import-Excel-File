@@ -237,7 +237,7 @@ const App = () => {
               },
             }}
           >
-            Upload File
+            Upload Excel File
           </Button>
         </label>
       </div>
