@@ -14,8 +14,8 @@ A modern React-based Inventory Management Tool that allows users to:
 
 | Add Item Modal | Excel Upload & Table View |
 |----------------|---------------------------|
-| ![SS01](https://github.com/user-attachments/assets/328ea1b5-c2b1-434a-ab6a-0ca975979608) | ![SS04](https://github.com/user-attachments/assets/84d72e8a-c88e-4c20-a216-b06d02fabe49) |
-| ![SS03](https://github.com/user-attachments/assets/09a67ef6-9600-4bce-80cf-8c95057a1502) | ![SS02](https://github.com/user-attachments/assets/f7224fc2-d4ed-476c-85f4-40bd2437950a) |
+| ![SS01](https://github.com/user-attachments/assets/328ea1b5-c2b1-434a-ab6a-0ca975979608) | ![SS02](https://github.com/user-attachments/assets/f7224fc2-d4ed-476c-85f4-40bd2437950a) |
+| ![SS03](https://github.com/user-attachments/assets/09a67ef6-9600-4bce-80cf-8c95057a1502) | ![SS04](https://github.com/user-attachments/assets/84d72e8a-c88e-4c20-a216-b06d02fabe49) |
 
 ---
 
